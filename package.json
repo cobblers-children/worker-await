@@ -1,0 +1,25 @@
+{
+  "name": "worker-await",
+  "version": "0.0.1",
+  "description": "Thin async wrapper around the Worker API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cobblers-children/worker-await.git"
+  },
+  "keywords": [
+    "worker",
+    "await",
+    "async",
+    "promise"
+  ],
+  "author": "Jason Marshall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobblers-children/worker-await/issues"
+  },
+  "homepage": "https://github.com/cobblers-children/worker-await#readme"
+}
